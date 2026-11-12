@@ -1,0 +1,6 @@
+{
+  "name": "AI & Social Hub",
+  "description": "All-in-one AI tools and social media launcher with customizable bookmarks, categories, search, and integrated browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
